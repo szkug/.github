@@ -9,4 +9,4 @@ Hi, 这里是深圳 Kotlin 用户组，欢迎所有热爱 Kotlin 的开发者加
 - QQ 交流群/频道：811981478
 - 微信交流群：联系 korilin_daily 邀请入群
 
-你可以在这里看到我们往期的活动记录：https://shenzhen-kug.cn/events/
+你可以在这里看到我们往期的活动记录：https://szkug.github.io/website-hugo/events/
