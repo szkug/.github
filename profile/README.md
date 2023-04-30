@@ -5,7 +5,7 @@
 - 在这里可以和其它成员一起学习、讨论技术、解决问题 📚
 - 我们还会不定期举行研讨会，进行与 Kotlin 相关的主题分享与讨论
 
-你可以在这里看到我们往期的活动记录：https://szkug.github.io/website-hugo/events/
+你可以在这里看到我们往期的活动记录：https://github.com/szkug/events
 
 #### 负责人联系方式：
 
