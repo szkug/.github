@@ -1,4 +1,4 @@
 # .github
 Shenzhen Kotlin User Group Profile
 
-website: https://shenzhen-kug.cn/
+website: 直接看 GitHub Profile 吧😝
